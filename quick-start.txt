@@ -1,0 +1,5 @@
+1. git init
+2. git add .
+3. git commit -m "commit desc"
+4. git remote add origin git@github.com:felixair/addNewRepo.git
+5. git push -u origin master
